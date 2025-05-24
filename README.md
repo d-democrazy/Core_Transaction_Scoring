@@ -1,4 +1,4 @@
-# Gas Fee Cumulative
+# Core Transaction Gas Tracker and Scoring
 
 A tool to track and analyze gas fees spent by Core blockchain addresses.
 
@@ -20,8 +20,8 @@ A tool to track and analyze gas fees spent by Core blockchain addresses.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/GasFeeCummulative.git
-cd GasFeeCummulative
+git clone https://github.com/d-democrazy/Core_Transaction_Scoring.git
+cd Core_Transaction_Scoring
 ```
 
 2. Install dependencies:
@@ -35,7 +35,7 @@ ENDPOINT_URL=https://openapi.coredao.org/api
 API_KEY=your_api_key_here
 RPC_URL=https://rpc.coredao.org
 EXPLORER=https://scan.coredao.org
-API_PORT=3000
+API_PORT=your_specified_api_port
 ```
 
 ## Usage
