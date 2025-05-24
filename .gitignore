@@ -1,0 +1,12 @@
+# experimental
+/experimental/
+
+# build
+/dist/
+/output/
+
+# deps
+/node_modules/
+
+# dotenv
+.env
